@@ -13,7 +13,7 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
 
 ## 🧰 My Dev Arsenal
 
-<p align="center"><b>⚙️ Backend Power</b><br/>
+<p align="left"><b>⚙️ Backend Power</b><br/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/.NET_MVC-512BD4?style=flat&logo=dotnet&logoColor=white" height="28"/>
@@ -21,7 +21,7 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
   <img src="https://img.shields.io/badge/REST_API-005571?style=flat" height="28"/>
 </p>
 
-<p align="center"><b>🧠 Architecture Wizardry</b><br/>
+<p align="left"><b>🧠 Architecture Wizardry</b><br/>
   <img src="https://img.shields.io/badge/Clean_Architecture-8E44AD?style=flat" height="28"/>
   <img src="https://img.shields.io/badge/Dependency_Injection-16A085?style=flat" height="28"/>
   <img src="https://img.shields.io/badge/Microservices-27AE60?style=flat" height="28"/>
@@ -33,7 +33,7 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
   <img src="https://img.shields.io/badge/Asynchronous_Programming-2980B9?style=flat" height="24"/>
 </p>
 
-<p align="center"><b>🗄️ Data Whisperer</b><br/>
+<p align="left"><b>🗄️ Data Whisperer</b><br/>
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Dapper-2C3E50?style=flat" height="28"/>
@@ -41,7 +41,7 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
   <img src="https://img.shields.io/badge/LINQ-117A65?style=flat" height="28"/>
 </p>
 
-<p align="center"><b>🎨 Frontend Flavor</b><br/>
+<p align="left"><b>🎨 Frontend Flavor</b><br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="28"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Angular_8%2B-DD0031?style=flat&logo=angular&logoColor=white" height="28"/>
@@ -65,9 +65,5 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-> ☕ More espresso, Less Depresso.
----
 
 
