@@ -11,7 +11,6 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
 📐 I enjoy solving meaningful problems, learning new patterns, and keeping things simple, clean, and efficient.  
 🌐 Currently exploring distributed systems, modern architectural practices, and better ways to build reliable software.
 
-```
 ## 🧰 My Dev Arsenal
 
 <p align="center"><b>⚙️ Backend Power</b><br/>
@@ -49,7 +48,8 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" height="28"/>
 </p>
-```
+
+---
 
 <p align="center">
   <i>
