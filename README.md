@@ -1,7 +1,13 @@
 <h1 align="center">Hey there 👋 I'm Irakli Totladze</h1>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:totladzeirakli@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iraklitotladze/)
+<p align="center">
+  <a href="mailto:totladzeirakli@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/iraklitotladze/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -24,10 +30,24 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
 public class DeveloperProfile
 {
     public string Name => "Irakli Totladze";
-    public string[] DotNetSkills => new[] { "C#", ".NET Core", ".NET MVC", ".NET Framework", "REST API", "Clean Architecture", "Dependency Injection" };
-    public string[] SoftwareDesign => new[] { "Microservices", "Design Patterns & Principles", "Architecture Patterns", "Asynchronous Programming" };
-    public string[] DataAccess => new[] { "MSSQL", "MYSQL", "Dapper", "Entity Framework Core", "LINQ" };
-    public string[] Frontend => new[] { "JavaScript", "TypeScript", "Angular 8+", "HTML", "CSS" };
+    public string[] DotNetSkills => new[]
+    {
+        "C#", ".NET Core", ".NET MVC", ".NET Framework",
+        "REST API", "Clean Architecture", "Dependency Injection"
+    };
+    public string[] ArchitectureAndPatterns => new[]
+    {
+        "Microservices", "CQRS", "MediatR", "Repository Pattern",
+        "Design Patterns", "Architecture Patterns", "Asynchronous Programming"
+    };
+    public string[] DataAccess => new[]
+    {
+        "MSSQL", "MySQL", "Dapper", "Entity Framework Core", "LINQ"
+    };
+    public string[] Frontend => new[]
+    {
+        "JavaScript", "TypeScript", "Angular 8+", "HTML", "CSS"
+    };
 }
 ```
 
