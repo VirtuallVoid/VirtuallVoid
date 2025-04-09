@@ -13,15 +13,6 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
 
 ---
 
-## 📚 Currently Learning
-
-- 🧩 Distributed systems  
-- ☁️ Azure Functions & Messaging  
-- 🔍 OpenTelemetry + Observability  
-- 📦 Kafka / RabbitMQ  
-
----
-
 ## 🎯 Side Projects
 
 - 🏦 **FinSharp** – A finance-focused .NET app with real-time SignalR support  
