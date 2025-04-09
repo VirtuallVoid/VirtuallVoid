@@ -13,7 +13,7 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
 
 ---
 
-## 🚀 My Current Stack (202)
+## 🚀 My Current Stack (2025)
 
 - 🖥 **Backend:** C#, .NET Core, .NET MVC, .NET Framework, Asynchronous Programming, REST API  
 - 📦 **Data Layer:** EF Core, Dapper, LINQ, MSSQL, MySQL  
@@ -59,3 +59,4 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+---
