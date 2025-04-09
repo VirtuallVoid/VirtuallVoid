@@ -27,7 +27,6 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
   <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=flat&logo=windows&logoColor=white" height="24"/>
   <img src="https://img.shields.io/badge/REST_API-005571?style=flat" height="24"/>
 </p>
-
 ### 🧠 Architecture Wizardry
 <p align="left">
   <img src="https://img.shields.io/badge/Clean_Architecture-8E44AD?style=flat" height="24"/>
@@ -40,7 +39,6 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
   <img src="https://img.shields.io/badge/Architecture_Patterns-9B59B6?style=flat" height="24"/>
   <img src="https://img.shields.io/badge/Asynchronous_Programming-2980B9?style=flat" height="24"/>
 </p>
-
 ### 🗄️ Data Access
 <p align="left">
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" height="24"/>
@@ -49,7 +47,6 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
   <img src="https://img.shields.io/badge/Entity_Framework_Core-6C3483?style=flat" height="24"/>
   <img src="https://img.shields.io/badge/LINQ-117A65?style=flat" height="24"/>
 </p>
-
 ### 🎨 Frontend Flavor
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="24"/>
@@ -60,36 +57,6 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
 </p>
 
 ---
-
-### 👨‍💻 DeveloperProfile.cs (for fellow devs)
-
-<details>
-<summary>Click to see the class that describes me as code 💾</summary>
-
-```csharp
-public class DeveloperProfile
-{
-    public string Name => "Irakli Totladze";
-    public string[] DotNetSkills => new[]
-    {
-        "C#", ".NET Core", ".NET MVC", ".NET Framework", "REST API", "Clean Architecture", "Dependency Injection"
-    };
-    public string[] ArchitectureAndPatterns => new[]
-    {
-        "Microservices", "CQRS", "MediatR", "Repository Pattern",
-        "Design Patterns", "Architecture Patterns", "Asynchronous Programming"
-    };
-    public string[] DataAccess => new[]
-    {
-        "MSSQL", "MySQL", "Dapper", "Entity Framework Core", "LINQ"
-    };
-    public string[] Frontend => new[]
-    {
-        "JavaScript", "TypeScript", "Angular 8+", "HTML", "CSS"
-    };
-}
-```
-</details>
 
 <p align="center">
   <i>
