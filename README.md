@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Irakli Totladze</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ---
 
@@ -11,23 +11,38 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
 📐 I enjoy solving meaningful problems, learning new patterns, and keeping things simple, clean, and efficient.  
 🌐 Currently exploring distributed systems, modern architectural practices, and better ways to build reliable software.
 
-## 🧰 My Dev Arsenal
+---
 
-**Backend:** ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![MediatR](https://img.shields.io/badge/MediatR-DD0031?style=flat)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
+## 🚀 My Current Stack (202)
 
-**Architecture:** ![CQRS](https://img.shields.io/badge/CQRS-FF8C00?style=flat)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6C3483?style=flat)
-![Microservices](https://img.shields.io/badge/Microservices-27AE60?style=flat)
+- 🖥 **Backend:** C#, .NET Core, .NET MVC, .NET Framework, Asynchronous Programming, REST API  
+- 📦 **Data Layer:** EF Core, Dapper, LINQ, MSSQL, MySQL  
+- 🧠 **Architecture:** Clean Architecture, Modular Monolith, Microservices, CQRS, MediatR, DI Pattern, Repository Pattern, Design Patterns,  
+- 🎨 **Frontend:** Angular, JavaScript, TypeScript, HTML, CSS  
 
-**Data:** ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-6C3483?style=flat)
-![Dapper](https://img.shields.io/badge/Dapper-2C3E50?style=flat)
+---
 
-**Frontend:** ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+## 📚 Currently Learning
+
+- 🧩 Distributed systems  
+- ☁️ Azure Functions & Messaging  
+- 🔍 OpenTelemetry + Observability  
+- 📦 Kafka / RabbitMQ  
+
+---
+
+## 🎯 Side Projects
+
+- 🏦 **FinSharp** – A finance-focused .NET app with real-time SignalR support  
+- 🧘 **MindEase** – A mental health software focused on journaling, mood tracking, and self-reflection tools   
+
+---
+
+## ✨ Career Highlights
+
+- 🏦 Built a production-grade financial wallet with external API integrations  
+- 🧾 Developed real-time accounting flows using SignalR + CQRS  
+- 🔒 Integrated robust KYC features into CRM platforms  
 
 ---
 
@@ -36,8 +51,7 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
     ☎️ Need a backend hero?<br/>
     Drop a line. I promise I won’t ghost you... unless it’s Halloween 👻  
   </i>
-  <br/>
-<p align="center">
+  <br/><br/>
   <a href="mailto:totladzeirakli@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -45,5 +59,3 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-
