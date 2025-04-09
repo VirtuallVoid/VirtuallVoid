@@ -13,15 +13,6 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
 
 ---
 
-## 🚀 My Current Stack (2025)
-
-- 🖥 **Backend:** C#, .NET Core, .NET MVC, .NET Framework, Asynchronous Programming, REST API  
-- 📦 **Data Layer:** EF Core, Dapper, LINQ, MSSQL, MySQL  
-- 🧠 **Architecture:** Clean Architecture, Modular Monolith, Microservices, CQRS, MediatR, DI Pattern, Repository Pattern, Design Patterns,  
-- 🎨 **Frontend:** Angular, JavaScript, TypeScript, HTML, CSS  
-
----
-
 ## 📚 Currently Learning
 
 - 🧩 Distributed systems  
@@ -43,6 +34,46 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
 - 🏦 Built a production-grade financial wallet with external API integrations  
 - 🧾 Developed real-time accounting flows using SignalR + CQRS  
 - 🔒 Integrated robust KYC features into CRM platforms  
+
+---
+
+## 🧰 My Dev Arsenal
+
+<p align="left">
+
+  <!-- 🖥 Backend -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Framework-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Async_Programming-2980B9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+
+  <!-- 📦 Data Layer -->
+  <img src="https://img.shields.io/badge/EF_Core-6C3483?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dapper-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LINQ-117A65?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <!-- 🧠 Architecture -->
+  <img src="https://img.shields.io/badge/Clean_Architecture-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Modular_Monolith-34495E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-27AE60?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CQRS-F39C12?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MediatR-DD0031?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dependency_Injection-16A085?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repository_Pattern-5D6D7E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design_Patterns-9B59B6?style=for-the-badge" />
+
+  <!-- 🎨 Frontend -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+</p>
 
 ---
 
