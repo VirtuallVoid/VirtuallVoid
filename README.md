@@ -1,14 +1,5 @@
 <h1 align="center">Hey there 👋 I'm Irakli Totladze</h1>
 
-<p align="center">
-  <a href="mailto:totladzeirakli@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/iraklitotladze/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -81,19 +72,18 @@ public class DeveloperProfile
 
 ---
 
-### 📬 Let's Talk
-
 <p align="center">
   <i>
     ☎️ Need a backend hero?<br/>
     Drop a line. I promise I won’t ghost you... unless it’s Halloween 👻  
   </i>
   <br/><br/>
+<p align="center">
   <a href="mailto:totladzeirakli@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/iraklitotladze/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
