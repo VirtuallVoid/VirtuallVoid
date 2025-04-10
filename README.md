@@ -2,14 +2,14 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, Georgia.
 
-🧑‍💻 I work primarily with **C# and the .NET ecosystem**, building scalable APIs, modular systems, and clean architectures.  
-🔧 Experienced in **microservices**, **asynchronous programming**, and writing maintainable code across backend (and sometimes frontend).  
-📐 I enjoy solving meaningful problems, learning new patterns, and keeping things simple, clean, and efficient.  
-🌐 Currently exploring distributed systems, modern architectural practices, and better ways to build reliable software.
+🛠 I work primarily with **C# and the .NET ecosystem**, building scalable APIs, modular systems, and clean architectures.  
+🧠 Experienced in **microservices**, **asynchronous programming**, and writing maintainable code across backend (and sometimes frontend).  
+🧩 I enjoy solving meaningful problems, learning new patterns, and keeping things simple, clean, and efficient.  
+☕ Currently exploring distributed systems, modern architectural practices, and better ways to build reliable software.
 
 ---
 
