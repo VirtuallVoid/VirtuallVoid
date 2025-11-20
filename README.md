@@ -13,21 +13,6 @@ Hi, I'm **Irakli Totladze** — a backend developer based in 🇬🇪 Tbilisi, G
 
 ---
 
-## 🎯 Side Projects
-
-- 🏦 **FinSharp** – A finance-focused .NET app with real-time SignalR support  
-- 🧘 **MindEase** – A mental health software focused on journaling, mood tracking, and self-reflection tools   
-
----
-
-## ✨ Career Highlights
-
-- 🏦 Built a production-grade financial wallet with external API integrations  
-- 🧾 Developed real-time accounting flows using SignalR + CQRS  
-- 🔒 Integrated robust KYC features into CRM platforms  
-
----
-
 ## 🧰 My Dev Arsenal
 
 <p align="left">
